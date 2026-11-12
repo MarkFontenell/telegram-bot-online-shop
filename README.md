@@ -63,7 +63,9 @@ Browse products, add items to the cart, and place an order.
 
 Order management and administrative workflows.
 
-> Демонстрация административной панели временно скрыта. Запись будет добавлена после обезличивания тестовых данных.
+<p align="center">
+  <img src="./zakaz%20%281%29.gif" alt="Демонстрация панели администратора и работы с заказами" width="390" />
+</p>
 
 > GIF-файлы довольно объёмные; на медленном соединении загрузка может занять время. Все опубликованные демонстрации записаны для портфолио.
 
@@ -179,12 +181,11 @@ The application demonstrates the **complete order lifecycle**: customer registra
 
 ## Demo
 
-The [demo gallery above](#demo) contains two published recordings:
+The [demo gallery above](#demo) contains three published recordings:
 
 1. **Registration** — first launch, onboarding, and user registration.
 2. **Catalog, cart & checkout** — browsing products, managing the cart, and placing an order.
-
-The admin-panel recording is temporarily omitted and will be published after its test data has been anonymized.
+3. **Admin panel** — reviewing orders and working with administrative features.
 
 ## Features
 
